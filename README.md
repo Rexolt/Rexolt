@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rexolt/Rexolt/main/github_profile_banner.png" width="100%" alt="Rexolt's Banner" onerror="this.src='https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop'"/>
+  
 </p>
 
 <h1 align="center">Hi there, I'm Rexolt 👋</h1>
