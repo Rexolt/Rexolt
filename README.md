@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://halomotion.com">Halomotion</a> • <a href="https://null.reviews">NULL.REVIEWS</a> • <a href="https://ko-fi.com/Rexolt">Support My Work</a>
+  <!--<a href="https://halomotion.com">Halomotion</a> • <a href="https://null.reviews">NULL.REVIEWS</a> •--> <a href="https://ko-fi.com/Rexolt">Support My Work</a>
 </p>
 
 <p align="center">
