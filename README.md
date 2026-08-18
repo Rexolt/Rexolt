@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Rexolt 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Cinematic Motion Designer | Privacy Advocate</strong>
+  <strong>Full-Stack Developer | Privacy Advocate</strong>
 </p>
 
 <p align="center">
